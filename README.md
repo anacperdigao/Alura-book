@@ -2,6 +2,7 @@
 
 <h2 align="center">Descrição do projeto </h2>
 <p>Essa é a página para cadastro onde ao preencher o CEP, todos os outros campos serão preenchidos automaticamento, facilitando então o trabalho da equipe de data science para tratamento de dados. A intençao é que o nome da rua, bairro, cidade e estado sejam escritos sempre da mesma forma, ou seja, automatizado.</p>
+<p>Projeto para treinamento de consumo de API pelo método assíncrono FETCH, com o uso do ".then" ou "async await". </p>
 
 <h2 align="center">Status do projeto </h2>
 <h4> :white_check_mark: Layout para Desktop finalizado :white_check_mark: </h4>
